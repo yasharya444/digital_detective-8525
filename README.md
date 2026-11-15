@@ -16,4 +16,11 @@ MISSION INDEX
 # WORKFLOW
 -> Each mission is completed and commited separately in their respective sub-folders.
 
+# My learning
+- Learned new commands on terminal to check OS version and archtitecture name , and getting the storage info of system.
+
+- Learned how to convert one number system to another number system in python using hex(),bin(),int() On mission 05.
+
+
+
 
