@@ -9,3 +9,4 @@
 
 ### Difference between Complier and Interpretor ?
 - A compiler translates the entire source code into object code before execution, whereas an interpreter translates and executes instructions during runtime. A compiler generally produces object code that can be linked to create an executable file, while an interpreter executes the instructions without producing a separate object code file. Compiled programs generally execute faster, whereas interpreted programs are easier to test and debug.
+
